@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">우영장시시</string>
+    <string name="search_hint">검색할 만화를 입력</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
